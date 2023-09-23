@@ -24,13 +24,15 @@ Major Concerns and Trade-Offs
 
 
 ## refer
-https://proandroiddev.com/a-simple-framework-for-mobile-system-design-interviews-89f6f4134b84
+[https://proandroiddev.com/a-simple-framework-for-mobile-system-design-interviews-89f6f4134b84](https://proandroiddev.com/mobile-system-design-exercise-file-downloader-library-ccb8ac0e5be4)
 
 ## Vocabulary
 
 |     英文                       	|     中文              	|     音标           	|     重要程度    	|
 |--------------------------------	|-----------------------	|--------------------	|-----------------	|
-|     brute force method         	|     暴力法            	|     bruːt fɔːʳs    	|     🌟🌟🌟🌟🌟       	|
+|     build a robust system         	|     建立一个健壮的系统            	|        	|     🌟🌟🌟🌟🌟       	|
+|     MVP (Minimum Viable Product)         	|     最小可运行产品            	|        	|     🌟🌟🌟🌟🌟       	|
+|     encapsulate         	|     封装            	|    /ɪnˈkæpsjuleɪt/    	|     🌟🌟🌟🌟🌟       	|
 |     time complexity            	|     时间复杂度        	|     kəmpleksɪti    	|     🌟🌟🌟🌟🌟       	|
 |     n squared                  	|     n的平方           	|     skweəʳd        	|     🌟🌟🌟🌟🌟       	|
 |     length                     	|     长度              	|                    	|     🌟🌟🌟🌟🌟       	|
